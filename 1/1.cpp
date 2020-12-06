@@ -14,7 +14,7 @@ int main()
     i = ree(i);
     printf("%i\n",i);
     std::cout << "Hello World!\n";
-    std::cout << i << "\n";
+    std::cout << i << " hi " << "there" << "\n";
 }
 
 int ree(int i)
