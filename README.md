@@ -8,4 +8,4 @@ Well, I have 2 different computers and I want to do my learning from both. I'm s
 
 Another question you may ask is, "why is this public?". Well that's because I didn't care if it was public or private.
 
-I'm mostly learning C for microcontroller stuff and  maybe operating system developmment in the future because that fascinates me.
+I'm mostly learning C/C++ for microcontroller stuff and  maybe operating system developmment in the future because that fascinates me.
