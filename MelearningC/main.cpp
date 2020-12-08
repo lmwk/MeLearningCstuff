@@ -15,6 +15,8 @@ int main()
     int subjectid;
     char subjectname[] = "Placeholder";
 
+
+
     cout << "Enter a subject name: ";
     cin >> subjectname;
     subjectid = assingnsubjectid(subjectname);
@@ -30,5 +32,5 @@ double assingnsubjectid(char name[])
     srand(time(0));
     int rande = strlen(name);
 
-    return rand() * (double)rande * (double)rande;
+    return rand() * (double)rande * (double)rande * rande;
 }
